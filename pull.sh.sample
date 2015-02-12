@@ -1,0 +1,3 @@
+cd /var/www/some_path/
+git checkout -f
+git pull

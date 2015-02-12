@@ -1,0 +1,13 @@
+{
+  "name": "git-hook-scaffold",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Git hook scaffold",
+  "scripts": {
+    "start": "node ./githook.js",
+    "test": "test"
+  },
+  "dependencies": {
+    "gitlabhook": "0.0.11"
+  }
+}
